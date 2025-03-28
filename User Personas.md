@@ -1,4 +1,6 @@
-||<h1>Dr James Wilson</h1>||||
+<h2>Dr James Wilson</h2>
+
+||||||
 |---| --- | ---| --- | --- |
 || ![]( https://img.freepik.com/free-vector/young-man-with-glasses-avatar_1308-175692.jpg?t=st=1743174081~exp=1743177681~hmac=6c3a203246bbf1a491a907aa1836b916eb96c5ccf3115b09a623fc0ba857c1c7&w=140 ) | | <h3>Bio</h3>  James is a Course Director with 15 years of academic experience, currently overseeing the Computer Science department. He previously worked in industry for 8 years as a software architect, giving him unique insights into both academic and practical needs of students. He manages a team of 12 lecturers and coordinates with various administrative staff to ensure smooth running of multiple degree programs. ||
 || <h3>Job Title</h3>  Module Leader & Senior Lecturer | | <h3>Goals</h3> <p>- Streamline the course creation and management process<br> - Ensure consistent quality across all modules<br> - Improve student retention rates through better progress monitoring<br> - Maintain compliance with academic standards and regulations<br> - Facilitate better communication between staff and students</p> ||
